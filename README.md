@@ -1,8 +1,7 @@
 ## Olá, eu sou o Felipe Borth! 👋
 
-Estudante de Engenharia de Software 💻<br>
+Sou estudante de Engenharia de Software 💻<br>
 Técnico em Informática 🎓<br>
-Tenho 20 anos ⚡️<br>
 Desenvolvimento de Sistemas e Projetos 🚀<br>
 Entre em contato para mais informações 📧<br>
 
@@ -21,11 +20,6 @@ Entre em contato para mais informações 📧<br>
   ##
  
 <div> 
-<a href="https://www.youtube.com/@felborth" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/felborth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@felborth" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<a href="https://x.com/felborth" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/felipe-borth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:borthcontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://linktr.ee/felborth" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://linktr.ee/felborth" target="_blank"><img src="https://img.shields.io/badge/@felborth-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://linktr.ee/felborthdev" target="_blank"><img src="https://img.shields.io/badge/@felborthdev-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
